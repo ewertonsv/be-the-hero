@@ -11,5 +11,7 @@ possa ser alterada dentro do componente é necessário usar um estado, que por d
 torna um array com seu valor e uma função de atualização que fica responsável por mudar o
 valor do estado.
 
+alteração teste
+
 
 git anotações: https://github.com/ThiagoTeodoro/semanaOminiStack_11/tree/develop#realizei-uma-corre%C3%A7%C3%A3o-de-logica-na-minha-opni%C3%A3o-necess%C3%A1ria
